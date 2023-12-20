@@ -1,6 +1,7 @@
 #! /bin/bash
 sum=0
 n=0
+#starting the loop
 while true
 do
 echo "please enter a number(or enter "q" to quit):"
